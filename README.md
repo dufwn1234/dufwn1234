@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=portfolio&logoColor=white"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dufwn1234&layout=compact)](https://github.com/dufwn1234/github-readme-stats)
