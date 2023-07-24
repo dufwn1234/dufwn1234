@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 </a>
 
 ##### 언어 및 도구
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/rstudio-75AADB?style=flat&logo=rstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/rstudio-75AADB?style=flat&logo=rstudio&logoColor=white"/>
