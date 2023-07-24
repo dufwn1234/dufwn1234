@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://fog-centaur-526.notion.site/3b7bee4dbab340e3931c01292b6d18d5?pvs=4">
- <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=portfolio&logoColor=white"/>
+ <img src="https://img.shields.io/badge/portfolio-000000?style=flat&logo=notion&logoColor=white"/>
 </a>
 
