@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 </a>
 
 #### 언어 및 도구
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/rstudio-75AADB?style=flat&logo=rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/rstudio-75AADB?style=flat&logo=rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/amazon aws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
