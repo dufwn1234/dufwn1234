@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://fog-centaur-526.notion.site/3b7bee4dbab340e3931c01292b6d18d5?pvs=4">
  <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=portfolio&logoColor=white"/>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dufwn1234&layout=compact)](https://github.com/dufwn1234/github-readme-stats)
