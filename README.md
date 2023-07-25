@@ -23,7 +23,5 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/mlflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dufwn1234&exclude_repo=dufwn1234.github.io&layout=compact&theme=white" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=dufwn1234&theme=white&show_icons=true" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dufwn1234&exclude_repo=dufwn1234.github.io&layout=compact&theme=white" /> <img src="https://github-readme-stats.vercel.app/api?username=dufwn1234&theme=white&show_icons=true" width="42%" />
 
